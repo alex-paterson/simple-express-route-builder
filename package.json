@@ -1,0 +1,11 @@
+{
+  "name": "express-route-builder",
+  "version": "0.1.0",
+  "description": "Build route trees in a rails-like fashion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Paterson <hello@alexanderpaterson.com> (https://alexanderpaterson.com)",
+  "license": "MIT"
+}
